@@ -15,6 +15,7 @@ namespace GithubTest {
             };
 
             Console.WriteLine($"output from switch: {output}");
+            Console.WriteLine($"output from switch: {output}");
         }
     }
 }
